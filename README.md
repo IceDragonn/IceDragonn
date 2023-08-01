@@ -1,6 +1,6 @@
 Hi! I’m @IceDragonn :)
 
-![My Cat!](https://i.imgur.com/B4WewoF.png)
+![My Cat!](https://i.imgur.com/bW2PFDE.png)
 
 
 <!---
