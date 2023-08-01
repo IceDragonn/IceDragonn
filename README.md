@@ -1,5 +1,7 @@
 Hi! I’m @IceDragonn :)
-  [Imgur](https://i.imgur.com/B4WewoF.png)
+
+![My Cat!](https://i.imgur.com/B4WewoF.png)
+
 
 <!---
 IceDragonn/IceDragonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
